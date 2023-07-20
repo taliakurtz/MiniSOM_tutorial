@@ -13,7 +13,9 @@ All files output from this tutorial are included within the repository as well a
 This is not exhaustive list of all packages reuqired to run both notebooks
 
 [xarray](https://docs.xarray.dev/en/stable/)
+
 [minisom](https://github.com/JustGlowing/minisom)
+
 [cartopy](https://scitools.org.uk/cartopy/docs/latest/)
 
 There are other python SOM packages, but minisom is one of the more well used ones, and is updated often. Sklearn-som (not affiliated with scikit-learn project, just similar API) is another option, but has not has an updated in 2+ years. 
