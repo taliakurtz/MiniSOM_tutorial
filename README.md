@@ -22,4 +22,4 @@ There are other python SOM packages, but minisom is one of the more well used on
 
 # License
 
-*license information will go here*
+This is covered under a BSD 3-Clause License, feel free to use in the classroom! 
