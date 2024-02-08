@@ -10,7 +10,7 @@ The second step of this tutorial is the generation of the SOMs themselves and th
 All files output from this tutorial are included within the repository as well as the MSLP NCEP/DOE Reanalysis II file used as the atmospheric data. 
 
 # Selected Required Packages
-This is not exhaustive list of all packages reuqired to run both notebooks
+This is not an exhaustive list of all packages reuqired to run both notebooks
 
 [xarray](https://docs.xarray.dev/en/stable/)
 
